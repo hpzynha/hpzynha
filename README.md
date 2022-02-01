@@ -12,9 +12,9 @@
 ## 🧰 Languages and Tools:
 
 <p align="left">
- <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" alt="HTML5" target="_blank" width="40" height="40"/>
+<!--  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" alt="HTML5" target="_blank" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" target="_blank" width="40" height="40"/>  
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" target="_blank" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" target="_blank" width="40" height="40"/> -->
 
 
  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" target="_blank" width="40" height="40"/>
