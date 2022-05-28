@@ -3,7 +3,7 @@
 
 
 
-- 🕮 I’m currently studying Angular and Python
+- 🕮 I’m currently studying Angular and Flutter
 - 🤝 I’m looking to collaborate with anyone on any project.
 - 🔭 I live for a challenge
 - 💬 Ask me about anything
