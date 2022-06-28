@@ -3,9 +3,9 @@
 
 
 
-- 🕮 I’m currently working on Flutter projects
+- 🔭 I’m currently working on Flutter projects
 - 🤝 I’m looking to collaborate with anyone on any project.
-- 🔭 I live for a challenge
+- 🕮 &ensp;I’m currently learning Flutter ❤️
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love reading books and playing video games.
  
