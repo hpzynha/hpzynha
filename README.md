@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on Flutter projects
+<!-- - 🔭 I’m currently working on Flutter projects -->
 - 🤝 I’m looking to collaborate with anyone on any project.
 - 🕮 &ensp;I’m currently learning Swift ❤️
 - 💬 Ask me about anything
@@ -23,8 +23,6 @@
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="dart" target="_blank" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" target="_blank" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" target="_blank" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="flutter" target="_blank" width="40" height="40" />
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="flutter" target="_blank" width="40" height="40" />
 <!--<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="angular" target="_blank" width="40" height="40"/> ->
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40" height="40"/> -->
 
@@ -38,15 +36,7 @@
   
  
  </div>
-  
-  ## 📚 &ensp;Latest Medium Articles
 
-<!-- BLOG-POST-LIST:START -->
-- [Tipos e Recursos dos Botões no Flutter](https://medium.com/@dev.lari/tipos-recursos-dos-bot%C3%B5es-no-flutter-69b62b591013)
-- [Porque o Flutter está bombando em 2021?](https://medium.com/@dev.lari/porque-o-flutter-est%C3%A1-bombando-em-2021-49ddaefe7951)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ &ensp;[More Articles...](https://medium.com/@dev.lari)
  
 ## :email: Find me on:
  
