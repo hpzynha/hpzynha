@@ -4,9 +4,9 @@
 
 
 <!-- - 🔭 I’m currently working on Flutter projects -->
-- 🤝 I’m looking to collaborate with anyone on any project.
+- 🔭 Flutter Developer
 - 🕮 &ensp;I’m currently learning Swift ❤️
-- 💬 Ask me about anything
+- 💬 Reach me: larissa.nrocha@icloud.com
 - ⚡ Fun fact: I love reading books and playing video games.
  
 ## 🧰 Languages and Tools:
