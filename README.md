@@ -4,7 +4,7 @@
 
 
 <!-- - 🔭 I’m currently working on Flutter projects -->
-- 🔭 iOS Developer
+- 🔭 Mobile Developer
 - 🕮 &ensp;I’m currently working on a productivity app ❤️
 - 💬 Reach me: larissa.nrocha@icloud.com
 - ⚡ Fun fact: I love reading books and playing video games.
