@@ -4,7 +4,7 @@
 
 
 <!-- - 🔭 I’m currently working on Flutter projects -->
-- 🔭 Software Developer
+- 🔭 Software & Mobile Developer
 - 🕮 &ensp;I’m currently learning AI 🤖
 - 💬 Reach me: larissa.nrocha@icloud.com
 - ⚡ Fun fact: I love reading books and playing video games.
