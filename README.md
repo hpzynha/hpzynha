@@ -28,12 +28,11 @@
 
 </p>
 
- ## :trophy: My Github Stats:
- <div align="left">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpzynha&layout=compact&langs_count=7&theme=dracula"/>
-  
+## 🏆 My Github Stats:
 
-  
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpzynha&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
  </div>
 
