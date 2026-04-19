@@ -30,11 +30,18 @@
 
 ## 🏆 My Github Stats:
 
-<div align="left">
-  <img src="https://stats.dooboo.io/api/top-langs/?username=hpzynha" />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=hpzynha&show_icons=true&theme=radical&count_private=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpzynha&layout=compact&theme=radical&langs_count=6" />
+      </td>
+    </tr>
+  </table>
 </div>
- 
- </div>
 
  
 ## :email: Find me on:
